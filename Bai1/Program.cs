@@ -38,7 +38,7 @@ namespace Bai1
                 Console.WriteLine(item + " ");
             }
             //            
-            Console.WriteLine("Bai 1c:");
+            Console.WriteLine("Bai 1c:" );
             foreach (var item in hoa)
             {
                 Console.WriteLine(item + " ");
